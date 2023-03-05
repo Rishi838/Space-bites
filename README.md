@@ -25,7 +25,13 @@ The Purpose of SpaceBites is to minimize the interaction with the waiter and giv
    - Database. 
    
    MongoDb 
-   
+
+# Run Space-Bites on your system
+
+- Open cmd and run command: git clone https://github.com/Rishi838/Space-bites
+- cd Space-bites
+- npm install
+- npm start
    
 # Features   
    
